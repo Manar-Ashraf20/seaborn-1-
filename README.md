@@ -1,2 +1,2 @@
-# seaborn-1-
+# seaborn
 Data visualization with seaborn (part1)
